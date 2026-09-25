@@ -1,2 +1,2 @@
-# la-rent-estimator
-Estimate apartment rents in Los Angeles.
+# coin-defects-detector
+Detect defects of coins from manufacture and circulation.
